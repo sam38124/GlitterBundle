@@ -1,1 +1,1 @@
-{"Official_1.0":"https://github.com/sam38124/GlitterBundle/raw/master/Official%20Verision/1.0.zip"}
+{"Official_1.0":"https://github.com/sam38124/GlitterBundle/raw/master/Official%20Verision/1.0.zip","Official_1.1":"https://github.com/sam38124/GlitterBundle/raw/master/Official%20Verision/1.1.zip"}
